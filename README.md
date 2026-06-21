@@ -1,4 +1,4 @@
-# Guided Activity 2
+# Guided-Activity-2-Interface-and-Inheritance-Practice
 
 This folder now contains a working payment system example using:
 
